@@ -3,11 +3,17 @@
 
 ### Sobre mim :man_technologist: 
 
-🌱 Atualmente estou focada em desenvolvimento mobile e web com TypeScript, Node.Js e React 
+👾 Sou uma pessoa criativa que ama resolver problemas e descobrir novas tecnologias 
 
 🚀 Participo do Bootcamp GoStack da Rocketseat
 
 🎓 Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho 
+
+
+### Techs 
+- <img width="15px" src="https://img.icons8.com/color/48/000000/react-native.png"/> React 
+- <img width="15px" src="https://ik.imagekit.io/am6iypeh5w/datilografado_2xfLlq0h6.png"/>Typescript
+- <img width="15px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node.JS
 
 ---
 
